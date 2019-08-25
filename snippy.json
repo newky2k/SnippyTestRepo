@@ -1,7 +1,7 @@
 {
     "Title" : "Test Snippy Repo",
     "Description" : "This is a test repo for things",
-    "Version" : "0.1.0",
+    "Version" : "0.1.1",
     "Author": "Testy McTesterson",
     "Files" : [
         {"Name": "Test.cs", "Description" : "Helper functions for things"}
